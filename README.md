@@ -1,6 +1,6 @@
 # A4Tech Bloody Backlight Level Utility
 
-Set backlight level for the A4Tech Bloody mouses.
+Set backlight level for the A4Tech Bloody mice.
 
 Initial idea, reverse-engineering and all credit goes to the original project: https://github.com/maxmati/a4tech-bloody-linux-driver.
 
