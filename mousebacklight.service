@@ -1,0 +1,9 @@
+[Unit]
+Description=Backlight controller for A4Tech Bloody mouses
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/bloody 0
+
+[Install]
+WantedBy=multi-user.target
