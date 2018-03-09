@@ -1,5 +1,5 @@
 [Unit]
-Description=Backlight controller for A4Tech Bloody mouses
+Description=Backlight controller for A4Tech Bloody mice
 
 [Service]
 Type=simple
