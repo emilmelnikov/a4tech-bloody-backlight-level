@@ -6,6 +6,10 @@ Initial idea, reverse-engineering and all credit goes to the original project: h
 
 This utility is written in C, built with a simple Makefile, accepts a command line option and includes a systemd unit file.
 
+## Contribution
+
+If you want to help reverse-engineer the mice protocol or contribute in a meaningful way, please consider https://gitlab.com/C0rn3j/a4tech_bloody_p85_driver instead.
+
 ## Installation
 
 Compile and install on distributions with systemd:
